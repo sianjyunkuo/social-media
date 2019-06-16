@@ -14,3 +14,6 @@ type the name of the users in search bar
 In index page, press the `+` button on the user to keep it into favorite list.
 You can checkout the favorite list in `favorite.html`
 press `x` to remove it from favorite list
+
+
+Link: https://sianjyunkuo.github.io/social-media/
